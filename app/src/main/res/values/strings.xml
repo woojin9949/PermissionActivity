@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PermissionActivity</string>
+    <string name="permisson_button">권한 요청</string>
+</resources>
